@@ -35,7 +35,7 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: uploads/PopulationEstimationUAI.pdf
+url_pdf: https://proceedings.mlr.press/v244/weltz24a.html
 url_code: uploads/Aux_Supplementary_Material.zip
 url_poster: uploads/UAI_Conference_poster.pdf
 
