@@ -6,11 +6,11 @@ authors:
 - Yichi Zhang
 - Alexander Volfovsky
 - Eric Laber
-date: "'2025-01-01'"
+date: "'2025-11-01'"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-11-02T02:34:20.335090Z"
+publishDate: "2025-11-02"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
