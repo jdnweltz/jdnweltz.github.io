@@ -35,12 +35,7 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: 'https://proceedings.mlr.press/v244/weltz24a.html'
+url_pdf: uploads/PopulationEstimationUAI.pdf
 url_code: uploads/Aux_Supplementary_Material.zip
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: uploads/UAI_Conference_poster.pdf
