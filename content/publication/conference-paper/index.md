@@ -37,15 +37,9 @@ featured: true
 
 url_pdf: uploads/PopulationEstimationUAI.pdf
 url_code: uploads/Aux_Supplementary_Material.zip
-#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: uploads/UAI_Conference_poster.pdf
-#url_project: ''
-#url_slides: ''
-#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_video: 'https://youtube.com'
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
