@@ -43,7 +43,7 @@ featured: true
 url_pdf: 'https://proceedings.mlr.press/v244/weltz24a.html'
 url_code: uploads/Aux_Supplementary_Material.zip
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
+url_poster: uploads/UAI_Conference_poster.pdf
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
