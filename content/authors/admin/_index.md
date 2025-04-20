@@ -21,6 +21,8 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Santa Fe Institute
+  - url: https://santafe.edu/people/profile/justin-weltz
   - name: Duke University
     url: https://www.duke.edu/
 
@@ -44,50 +46,6 @@ education:
       institution: Pomona College
       year: 2019
 
-# Skills
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: python
-        icon_pack: fab
-      - name: R
-        description: ''
-        percent: 100
-        icon: r
-        icon_pack: fab
-      - name: MySQL
-        description: ''
-        percent: 80
-        icon: database
-        icon_pack: fas
-      - name: Spark
-        description: ''
-        percent: 80
-        icon: database
-        icon_pack: fas
-  - name: Extracurricular Classes at Duke
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Dante's Divine Comedy
-        description: ''
-        percent: 100
-        icon: book
-        icon_pack: fas
-      - name: Don Quixote
-        description: ''
-        percent: 100
-        icon: book
-        icon_pack: fas
-      - name: Methodology in Art History
-        description: ''
-        percent: 100
-        icon: book
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -96,7 +54,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:justin.weltz@duke.edu'
+    link: 'mailto:jdnweltz@santafe.edu'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=xe86U7kAAAAJ
@@ -114,8 +72,4 @@ social:
 highlight_name: true
 ---
 
-I'm Justin, a Phd student at Duke University advised by [Alexander Volfovsky](https://volfovsky.github.io/) and [Eric Laber](https://www.laber-labs.com/) . I create methods for the study and assistance of hard-to-reach populations. In recent news:
-
-- I will be giving an invited talk at JSM 2024 on my soon to be submitted paper: Reinforcement learning respondent driven sampling.
-- My paper [Hidden population estimation with auxiliary information](uploads/HidPopEst.pdf) was submitted to AISTATS 2024.
-- My paper [Experimental designs for heteroskedastic variance](uploads/experimental_designs_for_heter.pdf) was accepted to NeurIPS 2023.
+I'm Justin, I am a postdoctoral fellow at the Santa Fe Institute where I work on statistical inference for complex network sampling techniques. I recently completed my Ph.D. at Duke University advised by [Alexander Volfovsky](https://volfovsky.github.io/) and [Eric Laber](https://www.laber-labs.com/). My dissertation research focused on creating methods for the study and assistance of hard-to-reach populations. In recent news:
