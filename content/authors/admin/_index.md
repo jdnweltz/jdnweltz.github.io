@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Emerging Political Economies and Applied Complexity Postdoctoral Fellow
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,14 +51,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 profiles:
-  - icon: envelope
-    icon_pack: fas
+  - icon: at-symbol
     url: 'mailto:jdnweltz@santafe.edu'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: academicons/google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     url: https://scholar.google.com/citations?hl=en&user=xe86U7kAAAAJ
-  - icon: linkedin
-    icon_pack: fab
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/justin-weltz-874849133/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
