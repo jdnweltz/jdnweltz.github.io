@@ -21,7 +21,7 @@ main:
     weight: 40
   - name: Professional Experience
     url: '#experience'
-    weight: 20
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
