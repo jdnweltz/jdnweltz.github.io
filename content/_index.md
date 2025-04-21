@@ -49,7 +49,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  sections:
   - block: collection
     content:
       title: Selected Working Papers
