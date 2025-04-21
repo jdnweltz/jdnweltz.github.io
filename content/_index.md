@@ -50,11 +50,12 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: workingpapers
     content:
       title: Selected Working Papers
       filters:
         folders:
-          - working papers
+          - workingpapers
     design:
       view: article-grid
       fill_image: true
