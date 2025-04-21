@@ -42,4 +42,5 @@ image:
   focal_point: ""
   preview_only: false
 
+share: false
 ---
