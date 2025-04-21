@@ -62,25 +62,25 @@ profiles:
   # and uncomment the lines below.
 
 work:
-- title: Applied Scientist, Prime Machine Learning Team
-  company: Amazon
+- position: Applied Scientist, Prime Machine Learning Team
+  company_name: Amazon
   company_url: ''
   #company_logo: org-x
   location: New York
   date_start: '2022-06-01'
   date_end: '2023-04-28'
-  description: |2-
+  summary: |2-
     *	Produced a series of reinforcement learning algorithms in Python to efficiently identify the optimal characteristics of prime membership advertisements through strategic sequential testing
     *	Adapted these models to complex data settings, including sparse signals and heteroskedastic noise
     *	Created realistic simulation structures to test best-advertisement identification algorithms (“best-arm identification” in the multi-armed bandit literature) against A/B testing and other competitors in high-dimensional data contexts
-- title: Applied Scientist, Sponsored Products
-  company: Amazon
+- position: Applied Scientist, Sponsored Products
+  company_name: Amazon
   company_url: ''
   #company_logo: amazon
   location: New York
   date_start: '2021-06-01'
   date_end: '2021-08-25'
-  description: |2-
+  summary: |2-
       * Designed a  reinforcement learning algorithm to better select advertisements sourced by a variety of machine learning algorithms using query features and partially observed customer behavior signals
       * Implemented the infrastructure for evaluating the advantages of modifications to advertisement sourcing algorithms on downstream outcomes in Spark
       * Ran off-line experiments testing the utility of my algorithm over a week of Amazon search query traffic and found that it was consistently capturing more than 3% of the high-quality ads missed by the current method

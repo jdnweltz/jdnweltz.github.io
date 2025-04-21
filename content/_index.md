@@ -54,6 +54,7 @@ sections:
       view: article-grid
       columns: 2
   - block: resume-experience
+    title: Professional Experience
     content:
       username: admin
     design:
