@@ -54,7 +54,7 @@ sections:
       title: Selected Working Papers
       filters:
         folders:
-          - project
+          - working papers
     design:
       view: article-grid
       fill_image: true
