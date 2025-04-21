@@ -19,6 +19,9 @@ main:
   - name: Industry Experience
     url: experience/
     weight: 50
+  - name: Publications
+    url: /#allpapers
+    weight: 50
   - name: CV
     url: uploads/resume.pdf
     weight: 70
