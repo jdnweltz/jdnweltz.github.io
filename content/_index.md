@@ -62,6 +62,17 @@ sections:
           - Teaching Assistant, *STA642- Time Series and Dynamic Models*, Fall 2021
           - Teaching Assistant, *STA721- Linear Models*, Fall 2020
           - Teaching Assistant,*STA102- Introduction to Biostatistics*, Spring 2020
+  - block: collection
+    id: papers
+    content:
+      title: All Publications
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      view: list
+      columns: 2
   - block: resume-experience
     content:
       title: Industry Experience
