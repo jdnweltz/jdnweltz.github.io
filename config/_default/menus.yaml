@@ -20,7 +20,7 @@ main:
     url: experience/
     weight: 50
   - name: Publications
-    url: allpapers/
+    url: publications/
     weight: 50
   - name: CV
     url: uploads/resume.pdf
