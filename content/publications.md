@@ -1,5 +1,5 @@
 ---
-title: 'Working Papers'
+title: 'Publications'
 date: 2024-05-19
 type: landing
 
@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Working Papers
+      title: Publications
       filters:
         folders:
           - project
