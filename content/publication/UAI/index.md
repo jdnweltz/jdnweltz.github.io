@@ -5,9 +5,9 @@ title: 'Hidden Population Estimation with Auxiliary Information'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
- -Justin Weltz
- - Eric Laber
- - Alexander Volfovsky
+- Justin Weltz
+- Alexander Volfovsky
+- Eric Laber
 
 date: '2024-01-01'
 doi: ''
@@ -44,4 +44,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
+
+share: false
 ---
