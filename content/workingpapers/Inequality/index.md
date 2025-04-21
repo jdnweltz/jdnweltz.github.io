@@ -1,11 +1,5 @@
 ---
-title: "Reinforcement Learning Respondent Driven Sampling"
-authors:
-- Justin Weltz
-- Angela Sun
-- Yichi Zhang
-- Alexander Volfovsky
-- Eric Laber
+title: ""
 date: "2025-11-01"
 doi: ""
 

@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: news
     content:
       title: 'News'
       subtitle: ''
@@ -49,17 +50,17 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    id: workingpapers
-    content:
-      title: Selected Working Papers
-      filters:
-        folders:
-          - workingpapers
-    design:
-      view: article-grid
-      fill_image: true
-      columns: 3
+  #- block: collection
+  #  id: workingpapers
+  #  content:
+  #    title: Selected Working Papers
+  #    filters:
+  #      folders:
+  #        - workingpapers
+  #  design:
+  #    view: article-grid
+  #    fill_image: true
+  #    columns: 3
 #  - block: resume-experience
 #    content:
 #      title: Industry Experience
