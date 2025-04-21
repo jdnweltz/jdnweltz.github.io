@@ -9,12 +9,12 @@ main:
     weight: 10
   - name: Papers
     url: /#papers
-    weight: 11
+    weight: 20
   - name: Current Research
     url: projects/
     weight: 30
   - name: Teaching
-    url: /#teaching
+    url: /#teachingmark
     weight: 40
   - name: Professional Experience
     url: experience/
