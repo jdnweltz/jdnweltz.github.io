@@ -53,7 +53,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: resume-experience
+  - block: experience
     id: teaching
     content:
       title: Teaching
