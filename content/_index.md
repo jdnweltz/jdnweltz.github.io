@@ -53,53 +53,14 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: experience
-    id: teaching
+  - block: resume-experience
     content:
-      title: Teaching
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Teaching Assistant
-          company: Duke University
-          company_url: 'duke.edu'
-          #company_logo: org-x
-          location: New York
-          date_start: '2024-01-01'
-          date_end: '2024-05-25'
-          description: STA210- Regression Analysis
-        - title: Teaching Assistant
-          company: Duke University
-          company_url: 'duke.edu'
-          #company_logo: org-x
-          location: New York
-          date_start: '2021-09-05'
-          date_end: '2021-12-05'
-          description: STA642- Time Series and Dynamic Models
-        - title: Teaching Assistant
-          company: Duke University
-          company_url: 'duke.edu'
-          #company_logo: org-x
-          location: New York
-          date_start: '2020-09-05'
-          date_end: '2020-12-05'
-          description: STA721- Linear Models
-        - title: Teaching Assistant
-          company: Duke University
-          company_url: 'duke.edu'
-          #company_logo: org-x
-          location: New York
-          date_start: '2020-01-05'
-          date_end: '2020-05-27'
-          description: STA102- Introduction to Biostatistics
+      username: admin
     design:
-      columns: '2'
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   #- block: collection
   #  content:
   #    title: Publications
