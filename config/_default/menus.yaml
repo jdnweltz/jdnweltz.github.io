@@ -7,6 +7,9 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: News
+    url: /#news
+    weight: 15
   - name: Featured Papers
     url: /#papers
     weight: 20
