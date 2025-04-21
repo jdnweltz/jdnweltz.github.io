@@ -15,7 +15,7 @@ sections:
       filters:
         folders:
           - project
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
       fill_image: false
