@@ -15,8 +15,9 @@ sections:
       filters:
         folders:
           - project
+        exclude_featured: false
     design:
-      view: article-grid
+      view: citation
       fill_image: false
       columns: 3
 ---
