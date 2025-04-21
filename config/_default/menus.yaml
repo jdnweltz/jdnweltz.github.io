@@ -10,8 +10,8 @@ main:
   - name: Featured Papers
     url: /#papers
     weight: 20
-  - name: Current Research
-    url: projects/
+  - name: Working Papers
+    url: workingpapers/
     weight: 30
   - name: Teaching
     url: /#teachingmark
