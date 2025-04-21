@@ -89,4 +89,4 @@ work:
 
 ## About Me
 
-I am a postdoctoral fellow at the Santa Fe Institute, where I work on statistical inference for complex network sampling techniques. I recently completed my Ph.D. at Duke University advised by [Alexander Volfovsky](https://volfovsky.github.io/) and [Eric Laber](https://www.laber-labs.com/). My dissertation research focused on creating methods for the study and assistance of hard-to-reach populations.
+I am an Emerging Political Economies and Applied Complexity postdoctoral fellow at the Santa Fe Institute, where I work on statistical inference for complex network sampling techniques. I recently completed my Ph.D. at Duke University advised by [Alexander Volfovsky](https://volfovsky.github.io/) and [Eric Laber](https://www.laber-labs.com/). My dissertation research focused on creating methods for the study and assistance of hard-to-reach populations.
