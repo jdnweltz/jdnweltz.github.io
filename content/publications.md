@@ -14,8 +14,8 @@ sections:
       title: Publications
       filters:
         folders:
-          - publications
-        exclude_featured: true
+          - publication
+        exclude_featured: false
     design:
       view: citation
       fill_image: false
