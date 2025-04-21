@@ -60,19 +60,6 @@ sections:
       view: article-grid
       fill_image: true
       columns: 3
-  - block: markdown
-    id: teachingmark
-    content:
-      title: Teaching
-      text: |-
-        **The Complexity Global School for Emerging Political Economies:**
-          - Instructor, *Statistics*, July 2025
-
-        **Duke University:**
-          - Teaching Assistant, *STA210- Regression Analysis*, Spring 2024
-          - Teaching Assistant, *STA642- Time Series and Dynamic Models*, Fall 2021
-          - Teaching Assistant, *STA721- Linear Models*, Fall 2020
-          - Teaching Assistant,*STA102- Introduction to Biostatistics*, Spring 2020
 #  - block: resume-experience
 #    content:
 #      title: Industry Experience
@@ -92,15 +79,15 @@ sections:
   #      exclude_featured: false
   #  design:
   #    view: citation
-  - block: collection
-    id: allpapers
-    content:
-      title: All Publications
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
-      view: list
-      columns: 2
+#  - block: collection
+#    id: allpapers
+#    content:
+#      title: All Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: false
+#    design:
+#      view: list
+#      columns: 2
 ---
