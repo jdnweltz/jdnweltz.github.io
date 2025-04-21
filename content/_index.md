@@ -49,6 +49,17 @@ sections:
     design:
       view: article-grid
       columns: 2
+  sections:
+  - block: collection
+    content:
+      title: Selected Working Papers
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: true
+      columns: 3
   - block: markdown
     id: teachingmark
     content:
