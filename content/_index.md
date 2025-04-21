@@ -34,14 +34,10 @@ sections:
     content:
       title: 'News'
       subtitle: ''
-  #    text: |-
-  #      Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-  #      I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-  #      Please reach out to collaborate 😃
-  #  design:
-  #    columns: '1'
+      text: |-
+        - I will be co-organizing and serving as discussant for an invited session entitled "Study designs for social networks at different stages of the experimental process."
+        - I won a **Best Student Paper Award** for the Health Policy Statistics Section for my paper, **Reinforcement Learning for Respondent-Driven Sampling**. I will be presenting on this work in the HPSS invited session at JSM in August.
+        - I recently submitted my paper, [Reinforcement Learning for Respondent-Driven Sampling](https://arxiv.org/abs/2501.01505)
   - block: collection
     id: papers
     content:
@@ -61,7 +57,7 @@ sections:
         **The Complexity Global School for Emerging Political Economies:**
           - Instructor, *Statistics*, July 2025
 
-        **Duke Univerity:**
+        **Duke University:**
           - Teaching Assistant, *STA210- Regression Analysis*, Spring 2024
           - Teaching Assistant, *STA642- Time Series and Dynamic Models*, Fall 2021
           - Teaching Assistant, *STA721- Linear Models*, Fall 2020
