@@ -31,7 +31,6 @@ sections:
           position: center
           parallax: false
   - block: markdown
-  - id: 
     content:
       title: 'News'
       subtitle: ''
@@ -99,16 +98,6 @@ sections:
           date_start: '2020-01-05'
           date_end: '2020-05-27'
           description: STA102- Introduction to Biostatistics
-    design:
-      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: Contact me with any questions!
-      # Contact (add or remove contact options as necessary)
-      email: justin.weltz@duke.edu
     design:
       columns: '2'
   #- block: collection
