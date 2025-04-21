@@ -35,8 +35,8 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
-        - I will be co-organizing and serving as discussant for an invited session entitled "Study designs for social networks at different stages of the experimental process."
-        - I won a **Best Student Paper Award** for the Health Policy Statistics Section for my paper, **Reinforcement Learning for Respondent-Driven Sampling**. I will be presenting on this work in the HPSS invited session at JSM in August.
+        - I will be co-organizing and serving as discussant for an invited session entitled **"Study designs for social networks at different stages of the experimental process"** at JSM in August.
+        - I won a **Best Student Paper Award** for the Health Policy Statistics Section for my paper, **"Reinforcement Learning for Respondent-Driven Sampling"**. I will be presenting on this work in the HPSS invited session at JSM in August.
         - I recently submitted my paper, [Reinforcement Learning for Respondent-Driven Sampling](https://arxiv.org/abs/2501.01505)
   - block: collection
     id: papers
