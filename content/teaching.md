@@ -11,7 +11,6 @@ design:
 # Page sections
 sections:
   - block: markdown
-    id: teachingmark
     content:
       title: Teaching
       text: |-
