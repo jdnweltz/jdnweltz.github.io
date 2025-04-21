@@ -53,7 +53,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: rmarkdown
+  - block: markdown
     id: teachingmark
     title: Teaching
     text: |-
