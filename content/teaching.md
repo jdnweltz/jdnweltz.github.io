@@ -15,7 +15,7 @@ sections:
       title: Teaching
       text: |-
         **The Complexity Global School for Emerging Political Economies:**
-          - Instructor, **Introduction to network sampling**, July 2025
+          - Instructor, **Introduction to Network Sampling**, July 2025
 
         **Duke University:**
           - Teaching Assistant, **STA210-Regression Analysis**, Spring 2024
