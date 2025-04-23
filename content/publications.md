@@ -17,7 +17,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: list
       fill_image: false
       columns: 3
 ---

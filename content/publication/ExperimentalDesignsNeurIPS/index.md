@@ -35,6 +35,7 @@ abstract: Most linear experimental design problems assume homogeneous variance, 
 tags:
   - Heteroskedastic Variance
   - Experimental Design
+  - Best-Arm Identification
 
 # Display this page in the Featured widget?
 featured: true

@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning Respondent Driven Sampling"
+title: "Reinforcement Learning for Respondent Driven Sampling"
 authors:
 - Justin Weltz
 - Angela Sun
@@ -29,6 +29,8 @@ abstract: Respondent-driven sampling (RDS) is widely used to study hidden or har
 tags:
 - Reinforcement learning
 - Hard-to-reach populations
+- Martingale Estimating Equations
+- Branching Processes
 
 featured: true
 

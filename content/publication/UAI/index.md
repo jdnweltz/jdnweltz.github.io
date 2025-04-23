@@ -31,6 +31,8 @@ abstract: Many populations defined by illegal or stigmatized behavior are diffic
 
 tags:
   - Hard-to-reach populations
+  - Indirect Inference
+  - Experimental Design
 
 # Display this page in the Featured widget?
 featured: true
